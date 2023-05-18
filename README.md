@@ -1,6 +1,6 @@
 # Tutoria de Algoritmo e Programação de Computadores (APC).
 
-Bem-vindo ao repositório da Tutoria de Algoritmo e Programação de Computadores (APC)! Aqui você encontrará uma variedade de recursos para ajudar no seu aprendizado e aprimoramento em algoritmos e programação.
+Bem-vindo ao meu repositório da Tutoria de Algoritmo e Programação de Computadores (APC)! Aqui você encontrará uma variedade de recursos para ajudar no seu aprendizado e aprimoramento em algoritmos e programação.
 
 ## Conteúdo Disponível:
 
